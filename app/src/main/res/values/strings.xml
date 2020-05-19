@@ -1,0 +1,315 @@
+<resources>
+    <array name="img_food_western">
+        <item>@drawable/burger</item>
+        <item>@drawable/burger</item>
+        <item>@drawable/burger</item>
+    </array>
+    <array name="img_food_traditional">
+        <item>@drawable/nasigoreng</item>
+        <item>@drawable/nasigoreng</item>
+        <item>@drawable/nasigoreng</item>
+    </array>
+    <array name="img_food_chinnees">
+        <item>@drawable/bakpao</item>
+        <item>@drawable/bakpao</item>
+        <item>@drawable/bakpao</item>
+    </array>
+    <integer-array name="img_category">
+        <item>@drawable/bakpao</item>
+        <item>@drawable/nasigoreng</item>
+        <item>@drawable/burger</item>
+    </integer-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <integer-array name="restaurant_img_category">
+        <item>@drawable/burger</item>
+        <item>@drawable/china_res</item>
+        <item>@drawable/nasigoreng</item>
+    </integer-array>
+
+    <!--category-->
+    <integer-array name="img_res_western">
+        <item>@drawable/mcdonal</item>
+        <item>@drawable/kfc</item>
+        <item>@drawable/burgerking</item>
+    </integer-array>
+
+    <integer-array name="img_res_traditional">
+        <item>@drawable/sederhana</item>
+        <item>@drawable/pakman</item>
+        <item>@drawable/lawar_kartika_denpasar</item>
+    </integer-array>
+    <!--    Category food end-->
+    <!--Name Food-->
+    <integer-array name="img_res_chinnees">
+        <item>@drawable/little_hongkong</item>
+        <item>@drawable/the_garoupa</item>
+        <item>@drawable/bali_nikmat</item>
+    </integer-array>
+
+    <string name="app_name">Receipt Food</string>
+
+    <string name="title_activity_detail_food">Detail Food</string>
+
+    <!--  end Name food  -->
+    <!--    image_food-->
+    <string name="tab_text_1">Description</string>
+
+    <string name="tab_text_2">Recept</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+
+    <string name="title_home">Receipt</string>
+
+    <string name="title_dashboard">Restaurant</string>
+
+    <string name="title_notifications">About Us</string>
+
+    <string name="title_activity_restaurant">RestaurantActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="name_category">
+        <item>Chinness</item>
+        <item>Traditional</item>
+        <item>Western</item>
+    </string-array>
+
+    <string-array name="name_food_western">
+        <item>Burger</item>
+        <item>Fried Fries</item>
+        <item>Pop Corn</item>
+    </string-array>
+
+    <string-array name="name_food_traditional">
+        <item>Nasi Goreng</item>
+        <item>Nasi Padang</item>
+        <item>Lawar</item>
+    </string-array>
+
+    <string-array name="name_food_chinnees">
+        <item>Cap Cay</item>
+        <item>Fu Hyung Hay</item>
+        <item>Bak Pao</item>
+    </string-array>
+
+    <string-array name="receipt_food_chinnees">
+        <item>receipt Cap Cay</item>
+        <item>receipt Fu Hyung Hay</item>
+        <item>receipt Bak Pao</item>
+    </string-array>
+    <string-array name="receipt_food_western">
+        <item>receipt Burger</item>
+        <item>fried rice</item>
+        <item>receipt Pop Corn</item>
+    </string-array>
+    <string-array name="receipt_food_traditional">
+        <item>"Bahan:
+            - 500 g nasi
+            - 3 sdm minyak sayur
+            - 150 g daging ayam goreng suwir
+            - 3 sdm kecap manis
+            - 2 butir telur ayam
+            - 1 sdm kaldu bubuk non MSG
+            - 1/2 sdt merica bubuk
+            Haluskan:
+            - 5 butir bawang merah
+            - 3 siung bawang putih
+            - 3 buah cabe merah
+            - 2 sdt terasi goreng
+            - 2 sdt garam
+            Pelengkap:
+            - Keurupuk kanji
+            - Acar mentimun
+
+            Cara Membuat:
+
+            - Panaskan minyak, tumis bumbu halus hingga wangi.
+            - Kocok telur hingga rata. Tuangkan ke dalam bumbu. Aduk rata.
+            - Masukkan nasi, ayam suwir, kaldu bubuk, kecap manis dan merica.
+            - Aduk-aduk hingga seluruhnya tercampur rata dan agak kering.
+            - Angkat dan sajikan dengan Pelengkapnya.
+            "
+        </item>
+        <item>receipt Nasi Padang</item>
+        <item>receipt Lawar</item>
+    </string-array>
+    <string-array name="desc_food_chinnees">
+        <item>receipt Cap Cay</item>
+        <item>receipt Fu Hyung Hay</item>
+        <item>receipt Bak Pao</item>
+    </string-array>
+    <string-array name="desc_food_western">
+        <item>receipt Burger</item>
+        <item>receipt Fried Fries</item>
+        <item>receipt Pop Corn</item>
+    </string-array>
+    <!--    image food end-->
+    <!--    https://www.dicoding.com/academies/14/tutorials/267-->
+    <string-array name="desc_food_traditional">
+        <item>"Ciri khasnya nasi goreng kampung yakni pada pemakaian terasi udang. Pelengkap lainnya suwiran daging ayam dan telur. Disajikan dengan kerupuk dan acar mentimun, rasa nasi goreng kampung makin sedap."</item>
+        <item>receipt Nasi Padang</item>
+        <item>receipt Lawar</item>
+    </string-array>
+    <string-array name="map_food_western">
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Burger+King</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=-8.6964879,115.1987529,13z</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Popcorn+Resto</item>
+    </string-array>
+
+    <!--restourant-->
+    <string-array name="map_food_traditional">
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Nasi+Goreng+Gila</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Rumah+Makan+Padang+Bundo+Minang</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=WARUNG+NASI+LAWAR+BALI</item>
+    </string-array>
+
+    <string-array name="map_food_chinnees">
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Pondok+Capcay+Lukluk</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Kedai+NGAWI+Chinese+Food+%26+Seafood</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Bakpao+Yenyen</item>
+    </string-array>
+
+    <string-array name="contact_food_chinnees">
+        <item>0361794565</item>
+        <item>0361794565</item>
+        <item>0361794565</item>
+    </string-array>
+    <!--restourant-->
+
+    <string-array name="contact_food_western">
+        <item>0361794565</item>
+        <item>0361794565</item>
+        <item>0361794565</item>
+    </string-array>
+
+    <string-array name="contact_food_traditional">
+        <item>0361794565</item>
+        <item>0361794565</item>
+        <item>0361794565</item>
+    </string-array>
+
+    <string-array name="restaurant_food_category">
+        <item>Western</item>
+        <item>Chinness</item>
+        <item>Traditional</item>
+    </string-array>
+    <!--restourant-->
+
+    <string-array name="name_res_western">
+        <item>MCDonald</item>
+        <item>KFC</item>
+        <item>Burger King</item>
+    </string-array>
+
+    <string-array name="name_res_traditional">
+        <item>Warung Nasi Padang Sederhana</item>
+        <item>Ayam Betutu Pak Man</item>
+        <item>Lawar Bali Kartika</item>
+    </string-array>
+
+    <string-array name="name_res_chinnees">
+        <item>Little Hongkong</item>
+        <item>The Garoupa Seafood and Dine</item>
+        <item>Bali Nikmat</item>
+    </string-array>
+    <!--restourant-->
+
+    <string-array name="desc_res_western">
+        <item>MCDonald</item>
+        <item>KFC</item>
+        <item>Burger King</item>
+    </string-array>
+
+    <string-array name="desc_res_traditional">
+        <item>Warung Nasi Padang WBR</item>
+        <item>Ayam Betutu Pak Man</item>
+        <item>Lawar Bali Kartika</item>
+    </string-array>
+
+    <string-array name="desc_res_chinnees">
+        <item>Little Hongkong</item>
+        <item>The Garoupa Seafood and Dine</item>
+        <item>Bali Nikmat</item>
+    </string-array>
+    <!--restourant-->
+
+    <string-array name="menu_res_western">
+        <item>"
+            - Burger
+            - Coca cola
+            "</item>
+        <item>"
+            - Burger
+            - Coca cola
+            "</item>
+        <item>"
+            - Burger
+            - Coca cola
+            "</item>
+    </string-array>
+
+    <string-array name="menu_res_traditional">
+        <item>"
+            - Nasi Padang
+            "</item>
+        <item>"
+            - Betutu
+            "</item>
+        <item>"
+            - Lawar
+            "</item>
+    </string-array>
+
+    <string-array name="menu_res_chinnees">
+        <item>"
+            - Capcay
+            "</item>
+        <item>"
+            - Fuyung Hay
+            "</item>
+        <item>"
+            - Capcay
+            "</item>
+    </string-array>
+    <!--restourant-->
+
+    <string-array name="location_res_western">
+        <item>https://www.google.com/maps/search/?api=1&amp;query=mcdonalds</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=kfc</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=burger+king</item>
+    </string-array>
+
+    <string-array name="location_res_traditional">
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Warung+Nasi+Padang+Sederhana</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Ayam+Betutu+Pak+Man+-+Kuta</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Lawar+Bali+Kartika</item>
+    </string-array>
+
+    <string-array name="location_res_chinnees">
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Little+Hongkong+Restaurant</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=The+Garoupa+Seafood+%26+Dine+Restaurant</item>
+        <item>https://www.google.com/maps/search/?api=1&amp;query=Bali+Nikmat</item>
+    </string-array>
+    <string-array name="contact_res_western">
+        <item>14045</item>
+        <item>14022</item>
+        <item>1500025</item>
+    </string-array>
+    <string-array name="contact_res_traditional">
+        <item>4469237</item>
+        <item>085100633570</item>
+        <item>085237768048</item>
+    </string-array>
+    <string-array name="contact_res_chinnees">
+        <item>14045</item>
+        <item>14022</item>
+        <item>14022</item>
+    </string-array>
+    <!--restourant-->
+
+
+</resources>
